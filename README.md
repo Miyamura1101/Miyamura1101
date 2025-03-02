@@ -1,21 +1,23 @@
-## Olá! Eu sou Felipe Silva👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-- 🌱 Cursando o Curso de Sistema de Informação
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miyamura1101&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyamura1101&layout=compact&show_icons=true&bg_color=00000000)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe+Silva+Souza;I+study+information+systems+at+UFS;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div>
-  <img aling="center" alt ="Fe-Csharp" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
-  <img aling="center" alt ="Fe-C++"heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />          
-  <img aling="center" alt ="Fe-.Net"heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />  
-  <img aling="center" alt ="Fe-Docker"heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />  
-  <img aling="center" alt ="Fe-Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Miyamura1101&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Silva Souza github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyamura1101&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miyamura1101&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/Miyamura1101/Miyamura1101/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Miyamura1101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Miyamura1101}/count.svg" /></p> 
+<br></div>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
