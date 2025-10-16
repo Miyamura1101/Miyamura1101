@@ -12,12 +12,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Miyamura1101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Miyamura1101}/count.svg" /></p> 
-<br></div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text"/>
